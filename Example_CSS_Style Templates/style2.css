@@ -11324,6 +11324,10 @@ html {
 .divider-custom.divider-light .divider-custom-icon {
   color: #fff;
 }
+.center-div {
+  width: 100%;
+  height: 100%;
+}
 
 .btn-xl {
   padding: 1rem 1.75rem;
