@@ -6194,6 +6194,11 @@ textarea.form-control-lg {
   color: #1a1e21;
 }
 
+.center-div {
+  width: 100%;
+  height: 100%;
+}
+
 .ratio {
   position: relative;
   width: 100%;
